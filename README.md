@@ -1,2 +1,2 @@
 # testegit
-Estudo do git
+Estudo do git que avançará em uma IDE mais a frente
